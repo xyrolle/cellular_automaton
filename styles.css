@@ -24,6 +24,7 @@ button {
   flex-direction: column;
   gap: 4px;
   margin-left: 24px;
+  max-width: 200px;
 }
 
 canvas {
